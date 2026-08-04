@@ -37,7 +37,7 @@ I am a passionate developer with hands-on experience building full-stack web app
 
 ### ⚡ Quick Overview
 
-- 🎓 **Status:** Computer Science / Software Engineering Student
-- 💼 **Open to:** Internship, Part-time, or Entry-level Backend & Full-Stack roles
+- 🎓 **Qualification:** Information Technology (Software Engineering)
+- 💼 **Open to:** Internship, or Entry-level Backend & Full-Stack roles
 - 🚀 **Core Stack:** RESTful API Design, PHP / Laravel, Java, Docker containerization & CI/CD workflows
 - 📫 **Let's Connect:** [LinkedIn](https://linkedin.com) | [Email](mailto:ryanross382@gmail.com)
