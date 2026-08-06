@@ -1,6 +1,6 @@
 # Hi there, I'm Ryan 👋
 
-🎓 **Aspiring Software Engineer\Software devloper** | 💼 **Actively Looking for Work / Software Engineering Opportunities**
+🎓 **Aspiring Software Engineer\Software developer** | 💼 **Actively Looking for Work / Software Engineering Opportunities**
 
 I am a passionate developer with hands-on experience building full-stack web applications, containerized deployment setups, and RESTful APIs. Currently expanding my skill set into **Spring Boot** and **React**, I love learning new technologies and delivering clean, maintainable code.
 
